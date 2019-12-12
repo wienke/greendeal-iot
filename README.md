@@ -8,4 +8,6 @@ The concept is that we encourage as many entrepreneurs to share their ideas for 
 
 As an example I am going to start The Green Deal IoT, but let's use the open source mindset and fork a The Grean Deal AI, The Green Deal Big Data, etc.
 
+So read the plan [link] and create an issue for every solution you envision here.
+
 Let's see how far this can take us.
